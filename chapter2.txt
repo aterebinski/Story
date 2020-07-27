@@ -1,2 +1,6 @@
 rozdział 2
+<<<<<<< HEAD
 coś tam jeszcze trzeba dodać
+=======
+Alien appeard.
+>>>>>>> alien-plot
